@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Penyedia_TRACJakarta9.8</name>
+   <tag></tag>
+   <elementGuidId>48e742db-4eda-41a1-808d-c48cd88ac779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[6]/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-1s2bzr4.r-1pxuy4t.r-11yh6sk.r-1rnoaur.r-1sncvnh > div.css-1dbjc4n > div.css-1dbjc4n.r-ymttw5.r-1f1sjgu > div.css-1dbjc4n.r-iphfwy > div.css-1dbjc4n.r-1loqt21.r-1otgn73.r-1i6wzkk.r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04e2dec3-ce30-4c1b-a12c-4d102a21b02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>81a7f4f4-5258-4cf7-a94b-0df6c9671835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr</value>
+      <webElementGuid>ae66ce2f-8feb-41c7-a76d-013b020b3a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRAC Jakarta9.8</value>
+      <webElementGuid>c48b8542-b33f-4adc-a4c8-77baaecb4162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1ifxtd0 r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-vmmdp4 r-1addiju r-nvplwv r-14lw9ot r-kdyh1x r-b4qz5r r-6koalj r-1d2f490 r-ek4qxl r-1udh08x r-95jzfe r-u8s1d r-9dmdro&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-1s2bzr4 r-1pxuy4t r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-ymttw5 r-1f1sjgu&quot;]/div[@class=&quot;css-1dbjc4n r-iphfwy&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]</value>
+      <webElementGuid>8a039ef5-5b94-4071-b7e5-1f8a9a82fc9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[6]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>06145e22-d7ce-481d-b128-39bfd903e748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyedia'])[3]/following::div[5]</value>
+      <webElementGuid>3884c82c-5bdc-4b54-bdc9-49bb624c6d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyedia'])[1]/following::div[10]</value>
+      <webElementGuid>21589845-1c9f-4d05-ade6-ff0751186e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy Trans Jaya Rent Jakarta'])[1]/preceding::div[22]</value>
+      <webElementGuid>2c359b1f-26c6-4b61-9760-971bd216c7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>d42c0a65-beac-44ec-bd28-65af76f3c0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TRAC Jakarta9.8' or . = 'TRAC Jakarta9.8')]</value>
+      <webElementGuid>d80ee5b7-c742-41d3-aa3f-a55e45f17ddf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

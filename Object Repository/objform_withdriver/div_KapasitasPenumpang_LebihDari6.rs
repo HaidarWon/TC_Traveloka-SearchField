@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KapasitasPenumpang_LebihDari6</name>
+   <tag></tag>
+   <elementGuidId>3b504ba8-18b2-4f00-8a75-c992f151d75f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7de88147-dbe9-48d5-ab58-ef44f796eca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-18u37iz r-t60dpp</value>
+      <webElementGuid>85262026-79db-4674-9b72-705eb2d01eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>> 6</value>
+      <webElementGuid>438cea7b-1baf-4415-a504-a0f57f441f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1ifxtd0 r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-vmmdp4 r-1addiju r-nvplwv r-14lw9ot r-kdyh1x r-b4qz5r r-6koalj r-1d2f490 r-ek4qxl r-1udh08x r-95jzfe r-u8s1d r-9dmdro&quot;]/div[@class=&quot;css-1dbjc4n r-ymttw5 r-1f1sjgu&quot;]/div[@class=&quot;css-1dbjc4n r-iphfwy&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-t60dpp&quot;]</value>
+      <webElementGuid>48e53130-e38f-4278-ba5c-a199a8b8d687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/div/div</value>
+      <webElementGuid>d2cc8797-6781-4476-b6aa-a2b9b4b18319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Penumpang'])[3]/following::div[26]</value>
+      <webElementGuid>894ec15a-6730-4d50-a944-d25a471e466b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Penumpang'])[1]/following::div[31]</value>
+      <webElementGuid>99d487be-da5f-43d2-95f8-a56a169bee9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Mobil'])[1]/preceding::div[10]</value>
+      <webElementGuid>f444ed31-0880-49b0-b43f-883b2ac6c578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[3]/div/div</value>
+      <webElementGuid>894d0cb6-b2dc-4eb0-9630-0454b7c6a450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '> 6' or . = '> 6')]</value>
+      <webElementGuid>48dd179f-57a7-47e1-bc56-9ac26e6c40e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kapasitas_Penumpang_5-6</name>
+   <tag></tag>
+   <elementGuidId>07264f7e-3f5c-4668-b9ad-2fc67ada2e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37e951f1-39ba-4090-9d70-c95fb1055201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-1k97etb r-kdyh1x r-rs99b7 r-z80fyv r-1777fci r-1dumxj3 r-1udh08x r-19wmn03</value>
+      <webElementGuid>46e1161c-42dd-4893-b7bd-207bab096dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1ifxtd0 r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-vmmdp4 r-1addiju r-nvplwv r-14lw9ot r-kdyh1x r-b4qz5r r-6koalj r-1d2f490 r-ek4qxl r-1udh08x r-95jzfe r-u8s1d r-9dmdro&quot;]/div[@class=&quot;css-1dbjc4n r-ymttw5 r-1f1sjgu&quot;]/div[@class=&quot;css-1dbjc4n r-iphfwy&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-t60dpp&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1k97etb r-kdyh1x r-rs99b7 r-z80fyv r-1777fci r-1dumxj3 r-1udh08x r-19wmn03&quot;]</value>
+      <webElementGuid>0f277a94-0715-4735-a2e6-e54985454195</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>6746bd03-5df4-4b77-b4e2-3fa469c61ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Penumpang'])[3]/following::div[16]</value>
+      <webElementGuid>2d25f598-3806-4cb0-8131-9e3034be25a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Penumpang'])[1]/following::div[21]</value>
+      <webElementGuid>636056c9-09d7-488d-95c0-87d1421e078f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='> 6'])[1]/preceding::div[14]</value>
+      <webElementGuid>5899b89a-9b56-42eb-bff3-b85d85bcea33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmisi'])[1]/preceding::div[20]</value>
+      <webElementGuid>1da5f7b8-0a14-4270-a7ff-555bb8277a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>1c9eab49-3796-4243-bfe3-de190437ad2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

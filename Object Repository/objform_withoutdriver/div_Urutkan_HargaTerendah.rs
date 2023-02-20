@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Urutkan_HargaTerendah</name>
+   <tag></tag>
+   <elementGuidId>23f259a4-0b6b-46be-8465-84bc84000794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div/div[2]/div[2]/div[3]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-vmmdp4.r-1addiju.r-nvplwv.r-14lw9ot.r-kdyh1x.r-b4qz5r.r-6koalj.r-ek4qxl.r-1udh08x.r-95jzfe.r-u8s1d.r-zchlnj.r-9dmdro > div.css-1dbjc4n > div.css-1dbjc4n.r-1awozwy.r-1loqt21.r-18u37iz.r-10paoce.r-1otgn73.r-1i6wzkk.r-lrvibr > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1777fci.r-ymttw5.r-1yzf0co > div.css-901oao.r-1sixt3s.r-ubezar.r-majxgm.r-135wba7.r-fdjqy7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>542985be-7ad9-4160-8d49-1ffacbf7098e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>e5d70270-133b-4e01-8136-3a0c215af942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-1sixt3s r-ubezar r-majxgm r-135wba7 r-fdjqy7</value>
+      <webElementGuid>8d9f6637-f97b-46d5-b72c-7617327040e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga terendah</value>
+      <webElementGuid>41b0c6b4-91eb-4115-ab37-9f0cb8189fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1ifxtd0 r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-vmmdp4 r-1addiju r-nvplwv r-14lw9ot r-kdyh1x r-b4qz5r r-6koalj r-ek4qxl r-1udh08x r-95jzfe r-u8s1d r-zchlnj r-9dmdro&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-10paoce r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci r-ymttw5 r-1yzf0co&quot;]/div[@class=&quot;css-901oao r-1sixt3s r-ubezar r-majxgm r-135wba7 r-fdjqy7&quot;]</value>
+      <webElementGuid>fb1efed0-ceba-45a9-9eaa-47860f18d32c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div/div[2]/div[2]/div[3]/div/div/div[2]</value>
+      <webElementGuid>4432d9b8-7419-452b-be32-a7c7006fb85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Below Options'])[1]/following::div[8]</value>
+      <webElementGuid>de4788a0-35fa-485e-9ed2-6dcd7188a9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[3]/following::div[9]</value>
+      <webElementGuid>4caba504-36de-4dfb-a9f7-5b87b0db451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga tertinggi'])[1]/preceding::div[5]</value>
+      <webElementGuid>293d98aa-874c-4788-b5db-7667b43f990f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas penumpang terkecil'])[1]/preceding::div[12]</value>
+      <webElementGuid>bbfa5d48-ba78-4cb8-83a5-d7974139d701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga terendah']/parent::*</value>
+      <webElementGuid>4beb005d-6903-43a1-8442-531e488ffd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div/div/div[2]</value>
+      <webElementGuid>7adc740a-3e84-43df-97f8-15494ca89a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Harga terendah' or . = 'Harga terendah')]</value>
+      <webElementGuid>a633c902-f7a7-4d94-82f2-0eebd4fb78a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

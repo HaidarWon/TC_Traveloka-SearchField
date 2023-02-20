@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transmisi_Otomatis</name>
+   <tag></tag>
+   <elementGuidId>92fbe834-d94b-49e9-b0df-319dce7ed653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[4]/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-vmmdp4.r-1addiju.r-nvplwv.r-14lw9ot.r-kdyh1x.r-b4qz5r.r-6koalj.r-1d2f490.r-ek4qxl.r-1udh08x.r-95jzfe.r-u8s1d.r-9dmdro > div.css-1dbjc4n.r-ymttw5.r-1f1sjgu > div.css-1dbjc4n.r-iphfwy > div.css-1dbjc4n.r-1loqt21.r-1otgn73.r-1i6wzkk.r-lrvibr > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-t60dpp > div.css-1dbjc4n.r-1awozwy.r-1k97etb.r-kdyh1x.r-rs99b7.r-z80fyv.r-1777fci.r-1dumxj3.r-1udh08x.r-19wmn03</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62cfd898-32e4-4881-a44a-1b3cef48e21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-1k97etb r-kdyh1x r-rs99b7 r-z80fyv r-1777fci r-1dumxj3 r-1udh08x r-19wmn03</value>
+      <webElementGuid>5cf2a65e-0185-4d68-a630-14c97de29e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1ifxtd0 r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-vmmdp4 r-1addiju r-nvplwv r-14lw9ot r-kdyh1x r-b4qz5r r-6koalj r-1d2f490 r-ek4qxl r-1udh08x r-95jzfe r-u8s1d r-9dmdro&quot;]/div[@class=&quot;css-1dbjc4n r-ymttw5 r-1f1sjgu&quot;]/div[@class=&quot;css-1dbjc4n r-iphfwy&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-t60dpp&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1k97etb r-kdyh1x r-rs99b7 r-z80fyv r-1777fci r-1dumxj3 r-1udh08x r-19wmn03&quot;]</value>
+      <webElementGuid>5d3455fa-3c70-4bed-a672-f87c118c04f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div/div/div[4]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>a506e4b1-2aa9-447c-ba6b-da3a42d03385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmisi'])[3]/following::div[5]</value>
+      <webElementGuid>9e4adb69-2630-4539-8eaa-760d0b275051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmisi'])[1]/following::div[10]</value>
+      <webElementGuid>bc8d3ff6-e5a5-4ee5-b31d-0721c7810a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otomatis'])[1]/preceding::div[6]</value>
+      <webElementGuid>fd4ba9ca-cee6-49a5-a4ec-a25643cf593a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual'])[1]/preceding::div[14]</value>
+      <webElementGuid>0e03e2db-e1a2-453c-b1d9-cba41af30217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>80743cb3-67b1-4761-b6f3-6f1041a00c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
