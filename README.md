@@ -1,5 +1,5 @@
 # AUTOMATION TESTING - WEBSITE TRAVELOKA - KATALON
-Web Traveloka With Behavior Driven 
+Web Traveloka With Behavior Driven Development
 ============
-    * Test Case Search Field Without Driver
-    * Test Case Search Field With Driver
+    * Test Case Search Rent Car in Website Traveloka Without Driver
+    * Test Case Search Rent Car in Website With Driver
